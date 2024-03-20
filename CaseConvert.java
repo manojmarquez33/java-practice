@@ -4,9 +4,8 @@ public class CaseConvert {
     public static void main(String[] args) {
         
         Scanner in = new Scanner(System.in);
-
+        System.out.println("Choose \n 1.ABCD\n 2.abcd\n 3.AaBb\n 4.aAbB\n 5.AbCd\n 6.aBcD");
         int a = in.nextInt();
-
         switch (a) {
             case 1:
                 for(char ch='A';ch<='Z';System.out.print(ch),ch++);

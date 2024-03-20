@@ -4,7 +4,7 @@ public class ApGp {
     public static void main(String[] args) {
         
         Scanner in = new Scanner(System.in);
-
+        System.out.println("Enter start,end & steo \n Choose 1 or 2 \n 1.Arithmetci Progession \n 2.Geometric progression");
         int start = in.nextInt(),end=in.nextInt(),step=in.nextInt(),opt=in.nextInt();
 
         switch (opt) {

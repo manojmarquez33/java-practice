@@ -19,9 +19,11 @@ public class Connel {
         //     step++;
         // }
 
-        int i,j,count=0,num=1;
-        for(i=1;count<=20;i++)
-        for(j=1;j<=i;System.out.print(num+""),j++,count++);
+        int i,j,count=1,num=1;
+        for(i=1;count<=20;i++,System.out.println(),num--)
+        for(j=1;j<=i;System.out.print(num+" "),j++,num+=2,count++);
+
+
     }
 
 }

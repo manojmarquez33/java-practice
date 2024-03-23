@@ -9,8 +9,9 @@ public class joshproblem {
         for(pos=1;pos<=n;pos*=2);
         int intial = in.nextInt();
         pow = n- (pos/2);
-        survive = 2*(n-pow)+intial;
+        //survive = 2*(n-pow)+intial;
         System.out.println((pow*2+intial)%n);
+
        // System.out.println(survive<n ? survive : survive-n);
 
       

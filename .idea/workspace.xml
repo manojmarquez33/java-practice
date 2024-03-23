@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2e8d210e-1fda-48eb-a7a5-3c2f80887be9" name="Changes" comment="commit 4" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;manojmarquez33&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="3be3aa9c-410e-423e-919a-93cf8ad55ba1" />
+        <option name="url" value="https://github.com/manojmarquez33/java-practice.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2dyHDo2fo39cwBySXJsNACbrAZk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ApGp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayRotation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CaseConvert.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Coak_cheff.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Connel.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Cops_Thief.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Fibbonacci.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Fibboncci.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NumberFormat.executor&quot;: &quot;Run&quot;,
+    &quot;Application.One_apple.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PatternPractice.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RotateString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Smilley.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SpiralPattern.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SpiralPattern1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SpiralPattern2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SpiralPattern3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SpiralPattern4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SpiralPattern5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SpiralPattern6.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SquarePattern.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Tribbonacci.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TwistedPrime.executor&quot;: &quot;Run&quot;,
+    &quot;Application.catalan.executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.gcd.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;20&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="CaseConvert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CaseConvert" />
+      <module name="Java training" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CaseConvert" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-20.0.2-azul-20.0.2-4caba194b151-eb49e076" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2e8d210e-1fda-48eb-a7a5-3c2f80887be9" name="Changes" comment="" />
+      <created>1710973283519</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710973283519</updated>
+      <workItem from="1710973285076" duration="703000" />
+      <workItem from="1710974106351" duration="5814000" />
+      <workItem from="1710985698488" duration="2481000" />
+      <workItem from="1710992891552" duration="11988000" />
+      <workItem from="1711008903926" duration="9762000" />
+      <workItem from="1711071382826" duration="3066000" />
+      <workItem from="1711079347418" duration="15170000" />
+      <workItem from="1711166285323" duration="331000" />
+    </task>
+    <task id="LOCAL-00001" summary="commit 4">
+      <option name="closed" value="true" />
+      <created>1710988123934</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710988123934</updated>
+    </task>
+    <task id="LOCAL-00002" summary="commit 5">
+      <option name="closed" value="true" />
+      <created>1711009207768</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1711009207768</updated>
+    </task>
+    <task id="LOCAL-00003" summary="commit 6">
+      <option name="closed" value="true" />
+      <created>1711089162047</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1711089162047</updated>
+    </task>
+    <task id="LOCAL-00004" summary="commit 4">
+      <option name="closed" value="true" />
+      <created>1711166417893</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1711166417893</updated>
+    </task>
+    <task id="LOCAL-00005" summary="commit 4">
+      <option name="closed" value="true" />
+      <created>1711166583056</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1711166583056</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit 5" />
+    <MESSAGE value="commit 6" />
+    <MESSAGE value="commit 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit 4" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

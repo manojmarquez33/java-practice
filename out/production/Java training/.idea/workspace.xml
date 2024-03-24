@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e8d210e-1fda-48eb-a7a5-3c2f80887be9" name="Changes" comment="commit 6">
-      <change beforePath="$PROJECT_DIR$/SpiralPattern3.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpiralPattern3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java training/SpiralPattern3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java training/SpiralPattern3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java training/joshproblem.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java training/joshproblem.class" afterDir="false" />
+    <list default="true" id="2e8d210e-1fda-48eb-a7a5-3c2f80887be9" name="Changes" comment="commit 4">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coak_cheff.java" beforeDir="false" afterPath="$PROJECT_DIR$/Coak_cheff.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java training/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java training/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java training/Codechef.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java training/Codechef.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,48 +51,53 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.ApGp.executor": "Run",
-    "Application.ArrayRotation.executor": "Run",
-    "Application.CaseConvert.executor": "Run",
-    "Application.Coak_cheff.executor": "Run",
-    "Application.Connel.executor": "Run",
-    "Application.Cops_Thief.executor": "Run",
-    "Application.Fibbonacci.executor": "Run",
-    "Application.Fibboncci.executor": "Run",
-    "Application.NumberFormat.executor": "Run",
-    "Application.One_apple.executor": "Run",
-    "Application.PatternPractice.executor": "Run",
-    "Application.RotateString.executor": "Run",
-    "Application.Smilley.executor": "Run",
-    "Application.SpiralPattern.executor": "Run",
-    "Application.SpiralPattern1.executor": "Run",
-    "Application.SpiralPattern2.executor": "Run",
-    "Application.SpiralPattern3.executor": "Run",
-    "Application.SpiralPattern4.executor": "Run",
-    "Application.SpiralPattern5.executor": "Run",
-    "Application.SpiralPattern6.executor": "Run",
-    "Application.SquarePattern.executor": "Run",
-    "Application.Tribbonacci.executor": "Run",
-    "Application.TwistedPrime.executor": "Run",
-    "Application.catalan.executor": "Run",
-    "Application.demo.executor": "Run",
-    "Application.gcd.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "jdk.selected.JAVA_MODULE": "20",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ApGp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayRotation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CaseConvert.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Coak_cheff.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Codechef.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Connel.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Cops_Thief.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Encry_Decry.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Encrypt_john.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Encryption_String.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Fibbonacci.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Fibboncci.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NumberFormat.executor&quot;: &quot;Run&quot;,
+    &quot;Application.One_apple.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PatternPractice.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseWord.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RotateString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Smilley.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SpiralPattern.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SpiralPattern1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SpiralPattern2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SpiralPattern3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SpiralPattern4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SpiralPattern5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SpiralPattern6.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SquarePattern.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Tribbonacci.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TwistedPrime.executor&quot;: &quot;Run&quot;,
+    &quot;Application.catalan.executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.gcd.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;20&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
@@ -133,6 +139,8 @@
       <workItem from="1711008903926" duration="9762000" />
       <workItem from="1711071382826" duration="3066000" />
       <workItem from="1711079347418" duration="15170000" />
+      <workItem from="1711166285323" duration="17284000" />
+      <workItem from="1711241572726" duration="614000" />
     </task>
     <task id="LOCAL-00001" summary="commit 4">
       <option name="closed" value="true" />
@@ -158,17 +166,52 @@
       <option name="project" value="LOCAL" />
       <updated>1711089162047</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="commit 4">
+      <option name="closed" value="true" />
+      <created>1711166417893</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1711166417893</updated>
+    </task>
+    <task id="LOCAL-00005" summary="commit 4">
+      <option name="closed" value="true" />
+      <created>1711166583056</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1711166583056</updated>
+    </task>
+    <task id="LOCAL-00006" summary="commit 4">
+      <option name="closed" value="true" />
+      <created>1711166705357</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1711166705357</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="commit 4" />
     <MESSAGE value="commit 5" />
     <MESSAGE value="commit 6" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit 6" />
+    <MESSAGE value="commit 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit 4" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Encry_Decry.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

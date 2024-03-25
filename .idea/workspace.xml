@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e8d210e-1fda-48eb-a7a5-3c2f80887be9" name="Changes" comment="commit 4">
+    <list default="true" id="2e8d210e-1fda-48eb-a7a5-3c2f80887be9" name="Changes" comment="commit 8">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coak_cheff.java" beforeDir="false" afterPath="$PROJECT_DIR$/Coak_cheff.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Java training/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java training/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java training/Codechef.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java training/Codechef.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java training/Codechef.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java training/Encrypt_john.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java training/Encrypt_john.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,9 +65,11 @@
     &quot;Application.Encryption_String.executor&quot;: &quot;Run&quot;,
     &quot;Application.Fibbonacci.executor&quot;: &quot;Run&quot;,
     &quot;Application.Fibboncci.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NeonNumber.executor&quot;: &quot;Run&quot;,
     &quot;Application.NumberFormat.executor&quot;: &quot;Run&quot;,
     &quot;Application.One_apple.executor&quot;: &quot;Run&quot;,
     &quot;Application.PatternPractice.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PerfectNumber.executor&quot;: &quot;Run&quot;,
     &quot;Application.ReverseWord.executor&quot;: &quot;Run&quot;,
     &quot;Application.RotateString.executor&quot;: &quot;Run&quot;,
     &quot;Application.Smilley.executor&quot;: &quot;Run&quot;,
@@ -89,12 +91,13 @@
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;20&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Projects/Java-exercises&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -104,6 +107,13 @@
     </key>
   </component>
   <component name="RunManager">
+    <configuration name="CaseConvert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CaseConvert" />
+      <module name="Java training" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CaseConvert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CaseConvert" />
       <module name="Java training" />
@@ -140,7 +150,16 @@
       <workItem from="1711071382826" duration="3066000" />
       <workItem from="1711079347418" duration="15170000" />
       <workItem from="1711166285323" duration="17284000" />
-      <workItem from="1711241572726" duration="2764000" />
+      <workItem from="1711241572726" duration="3552000" />
+      <workItem from="1711251091376" duration="136000" />
+      <workItem from="1711251310422" duration="4000" />
+      <workItem from="1711251322535" duration="15000" />
+      <workItem from="1711259850114" duration="944000" />
+      <workItem from="1711260810740" duration="35000" />
+      <workItem from="1711260917498" duration="46000" />
+      <workItem from="1711260981407" duration="604000" />
+      <workItem from="1711261588289" duration="2707000" />
+      <workItem from="1711269727222" duration="2375000" />
     </task>
     <task id="LOCAL-00001" summary="commit 4">
       <option name="closed" value="true" />
@@ -190,7 +209,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711166705357</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="commit 8">
+      <option name="closed" value="true" />
+      <created>1711245481451</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1711245481451</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -200,7 +227,8 @@
     <MESSAGE value="commit 5" />
     <MESSAGE value="commit 6" />
     <MESSAGE value="commit 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit 4" />
+    <MESSAGE value="commit 8" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit 8" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

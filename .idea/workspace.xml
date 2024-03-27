@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2e8d210e-1fda-48eb-a7a5-3c2f80887be9" name="Changes" comment="commit 8">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frog_Insects.java" beforeDir="false" afterPath="$PROJECT_DIR$/Frog_Insects.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java training/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java training/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Java training/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java training/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java training/Codechef.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java training/Encrypt_john.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java training/Encrypt_john.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java training/PerfectNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java training/PerfectNumber.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,56 +53,70 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.ApGp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArrayRotation.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CaseConvert.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Coak_cheff.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Codechef.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Connel.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Cops_Thief.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Encry_Decry.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Encrypt_john.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Encryption_String.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Fibbonacci.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Fibboncci.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NeonNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NumberFormat.executor&quot;: &quot;Run&quot;,
-    &quot;Application.One_apple.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PatternPractice.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PerfectNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ReverseWord.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RotateString.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Smilley.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SpiralPattern.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SpiralPattern1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SpiralPattern2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SpiralPattern3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SpiralPattern4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SpiralPattern5.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SpiralPattern6.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SquarePattern.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Tribbonacci.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TwistedPrime.executor&quot;: &quot;Run&quot;,
-    &quot;Application.catalan.executor&quot;: &quot;Run&quot;,
-    &quot;Application.demo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.gcd.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;20&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Projects/Java-exercises&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AmakableNumber.executor": "Run",
+    "Application.ApGp.executor": "Run",
+    "Application.ArrayRotation.executor": "Run",
+    "Application.CandyMano.executor": "Run",
+    "Application.CaseConvert.executor": "Run",
+    "Application.ChoclateDemand.executor": "Run",
+    "Application.Coak_cheff.executor": "Run",
+    "Application.Codechef.executor": "Run",
+    "Application.Connel.executor": "Run",
+    "Application.Cops_Thief.executor": "Run",
+    "Application.Encry_Decry.executor": "Run",
+    "Application.Encrypt_john.executor": "Run",
+    "Application.Encryption_String.executor": "Run",
+    "Application.F1_Car_Manoj.executor": "Run",
+    "Application.Fibbonacci.executor": "Run",
+    "Application.Fibboncci.executor": "Run",
+    "Application.FormBigN.executor": "Run",
+    "Application.Frog_Insects.executor": "Run",
+    "Application.Lapin_Palin_Drome.executor": "Run",
+    "Application.Lapindrome.executor": "Run",
+    "Application.LinkedListMiddle.executor": "Run",
+    "Application.MaxOfDigits.executor": "Run",
+    "Application.NeonNumber.executor": "Run",
+    "Application.NumberFormat.executor": "Run",
+    "Application.One_apple.executor": "Run",
+    "Application.Panlindrome_169.executor": "Run",
+    "Application.PatternPractice.executor": "Run",
+    "Application.PerfectNumber.executor": "Run",
+    "Application.Recursion.executor": "Run",
+    "Application.ReverseWord.executor": "Run",
+    "Application.Reverse_number.executor": "Run",
+    "Application.RotateString.executor": "Run",
+    "Application.Smilley.executor": "Run",
+    "Application.SpiralPattern.executor": "Run",
+    "Application.SpiralPattern1.executor": "Run",
+    "Application.SpiralPattern2.executor": "Run",
+    "Application.SpiralPattern3.executor": "Run",
+    "Application.SpiralPattern4.executor": "Run",
+    "Application.SpiralPattern5.executor": "Run",
+    "Application.SpiralPattern6.executor": "Run",
+    "Application.SquarePattern.executor": "Run",
+    "Application.Tribbonacci.executor": "Run",
+    "Application.TwistedPrime.executor": "Run",
+    "Application.catalan.executor": "Run",
+    "Application.demo.executor": "Run",
+    "Application.gcd.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "jdk.selected.JAVA_MODULE": "20",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Projects/Java-exercises",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
@@ -117,6 +133,19 @@
     <configuration name="CaseConvert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CaseConvert" />
       <module name="Java training" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Java training" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Java training" />
+      <option name="filePath" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -160,6 +189,11 @@
       <workItem from="1711260981407" duration="604000" />
       <workItem from="1711261588289" duration="2707000" />
       <workItem from="1711269727222" duration="2375000" />
+      <workItem from="1711339803544" duration="13739000" />
+      <workItem from="1711426369876" duration="4485000" />
+      <workItem from="1711441234488" duration="7885000" />
+      <workItem from="1711512247024" duration="5201000" />
+      <workItem from="1711527660020" duration="1298000" />
     </task>
     <task id="LOCAL-00001" summary="commit 4">
       <option name="closed" value="true" />

@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Data Structure/Data Structure.iml" filepath="$PROJECT_DIR$/Data Structure/Data Structure.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java training.iml" filepath="$PROJECT_DIR$/Java training.iml" />
     </modules>
   </component>

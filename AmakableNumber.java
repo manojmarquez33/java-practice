@@ -1,3 +1,22 @@
+/*
+Question:
+Write a Java program to determine whether two given numbers are amicable or not.
+Two numbers, n1 and n2, are considered amicable if the sum of proper divisors of
+each number (excluding the number itself) equals the other number. Write a program
+that takes two integers as input and outputs "yes" if they are amicable,
+otherwise "no".
+
+Sample Input:
+220 284
+
+Sample Output:
+yes
+
+Explanation:
+For the input pair (220, 284), the sum of proper divisors of 220 is 284, and the
+sum of proper divisors of 284 is 220. Hence, they are amicable numbers.
+*/
+
 import java.util.Scanner;
 
 public class AmakableNumber {

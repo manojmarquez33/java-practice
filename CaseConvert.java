@@ -1,3 +1,35 @@
+/*
+Question:
+Write a Java program to convert characters based on user input. The program should prompt the user to choose from
+different conversion patterns and output the converted characters accordingly.
+
+Choose from the following options:
+1. Convert characters to uppercase (e.g., ABCD)
+2. Convert characters to lowercase (e.g., abcd)
+3. Convert characters to alternating case (e.g., AaBb)
+4. Convert characters to alternating case starting with lowercase (e.g., aAbB)
+5. Convert characters to uppercase with every second character shifted by one position (e.g., AbCd)
+6. Convert characters to lowercase with every second character shifted by one position (e.g., aBcD)
+
+Sample Input/Output:
+Choose:
+1.ABCD
+2.abcd
+3.AaBb
+4.aAbB
+5.AbCd
+6.aBcD
+1
+
+Output:
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+
+Explanation:
+For option 1, all characters are converted to uppercase.
+*/
+
+// Press above to view full question
+
 import java.util.Scanner;
 
 public class CaseConvert {

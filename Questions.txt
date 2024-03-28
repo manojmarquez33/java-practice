@@ -1,0 +1,102 @@
+<!---------------Java Training quesrtions-------------------------->
+------------------------------------------------------
+Scenario based problem
+-------------------------------------------------------
+1.	Chocolate problem
+2.	Checker boar
+3.	Student swap
+4.	Josephus type 1
+5.	Josephus type 1
+6.	Josephus type 1
+7.	lift rrequest
+8.	coak temperatire
+9.	priest coconut
+10.	apple
+11.	lapindrome
+12.	frog and insects
+13.	cops and thief
+14.	hotels and chutney
+15.	Distribute problem
+-------------------------------------------------------
+String formating
+-------------------------------------------------------
+16.	Add with space
+17.	Dynamic precision
+18.	Dynamic with space
+19.	Zero padding with space
+20.	Number of digits to print
+21.	Floor and ceil without built-in function
+22.	Rounding without round()
+23.	Absolute with out abs()
+----------------------------------------
+Series problem
+-----------------------------------------
+24.	ABCED
+25.	abcdz
+26.	AaBb
+27.	aAbB
+28.	AbCd
+29.	aBcD
+30.	ApGp
+31.	Fibonacci
+32.	Tribonacci
+33.	Connel
+34.	Catalon series
+-------------------------------------------------
+Number problem
+-------------------------------------------------
+35.	Factors O(n, n/2,sqrt(n),sqrt(n/2))
+36.	Factor of odd number sqrt(n/2)
+37.	Prime number sqrt(n/4)
+38.	Twisted prime  factors
+39.	Amicable number
+40.	Find number of digits in O(1)
+41.	Capraker
+42.	Number palindrome In  O(n/2)
+43.	GCD and LCM
+44.	Number rotation
+45.	First max
+46.	Second max
+47.	N th max
+48.	Sum of first max + second max
+49.	Palindrome generation using 169 algorithm
+50.	Maximum number digits by rearrange
+51.	Recursion algo for print data in reverse
+52.	Number Encryption
+53.	Circle form in, out or on……
+---------------------------------------------------------
+Patterns
+----------------------------------------------------------
+54.	Spiral pattern 1 – n
+55.	Spiral pattern n – 1
+56.	San wedge patten
+57.	Butterfly pattern
+58.	Diamond pattern
+59.	Hallow diamond
+60.	Spiral L
+61.	Spiral cross
+
+--------------------------------------------------
+String Problem
+---------------------------------------------------
+62.	Harshath problem
+63.	String encryption
+64.	Check s2 rotation of s1
+65.	Reverse a  String O(n/2,n/4)
+66.	Reverse sentence word by word
+67.	Encryption decryption
+68.	Lapindrome
+69.	QuarcPalindrome
+70.	LapiPolidrome
+--------------------------------------------------------
+Arrays
+--------------------------------------------------------
+71.	Maximum element
+72.	Minimum element
+73.	Rotation element
+74.	Insertion in array
+75.	Deletion in array
+76.	Subarrays
+77.	Cadans algorithm
+78.
+

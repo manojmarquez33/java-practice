@@ -1,6 +1,19 @@
-// given the x,y cooordinates of a center point of a circle, along with this radius.
-// now find whether x or y, given by the user, lies inside the circle, on the circle,
-// or outside the circle
+/*
+Question:
+Write a Java program to determine whether a given point lies inside, on, or outside a circle. The program should
+take the coordinates of the center of the circle (x1, y1), the coordinates of the point (x2, y2), and the radius of
+ the circle as input from the user. Based on this input, determine if the point is inside the circle, on the circle,
+ or outside the circle, and print the corresponding message.
+
+Sample Input/Output:
+Enter the coordinates of the center of the circle (x1, y1) and radius:
+0 0 5
+Enter the coordinates of the point (x2, y2):
+3 4
+
+Output:
+Inside the circle
+*/
 
 import java.util.Scanner;
 

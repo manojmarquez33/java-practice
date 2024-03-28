@@ -30,8 +30,8 @@ public class Panlindrome_169 {
         int l  = (int)Math.log10(num)+1,i;
         char c[] = Integer.toString(num).toCharArray();
 
-        for (i=0;i<c.length/2;i++,l--){
-            if(c[i]!=c[l]) {
+        for (i=0;i<=c.length/2;i++,l--){
+          if(c[i]!=c[l]) {
                 System.out.println(c[i]+" "+c[l]);
                 return false;
             }

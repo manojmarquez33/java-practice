@@ -1,3 +1,4 @@
+import java.util.Arrays;
 import java.util.Scanner;
 
 public class FormBigN {
@@ -9,9 +10,10 @@ public class FormBigN {
         int a[] = new int[10];
 
         for(int i=0;i<l;i++){
-            a[(int)(n%10)]+=1;
+            a[(int)(n%10)]+=1; //
             n/=10;
         }
+        System.out.println(Arrays.toString(a));
 
         for (int i=9;i>-1;i--){
             while(a[i]>0){
@@ -21,6 +23,7 @@ public class FormBigN {
             }
         }
 
+        System.out.println(Arrays.toString(a));
         System.out.println(large);
     }
 }

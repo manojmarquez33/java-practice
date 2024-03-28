@@ -1,3 +1,22 @@
+/*
+Question:
+Write a Java program to perform array rotation. The program should rotate an array to the right and to the left by a
+specified number of times. Initialize an array with elements {1, 2, 3, 4, 5} and rotate it to the right and left by
+4 times each. Print the resulting arrays after rotation.
+
+Sample Input/Output:
+Initial Array: [1, 2, 3, 4, 5]
+Number of rotations: 4
+-----------Right rotation-----------
+2 3 4 5 1
+-----------Left rotation------------
+5 1 2 3 4
+
+Explanation:
+For the initial array [1, 2, 3, 4, 5], right rotation by 4 times results in [2, 3, 4, 5, 1].
+Left rotation by 4 times results in [5, 1, 2, 3, 4].
+*/
+
 import java.util.Scanner;
 public class ArrayRotation {
     public static void main(String[] args) {

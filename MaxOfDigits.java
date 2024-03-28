@@ -2,12 +2,12 @@ import java.util.Scanner;
 
 public class MaxOfDigits {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in); //51589
         int n = sc.nextInt(),number = sc.nextInt(),ans=0,j=1,pw=1,num=0,temp,i=1,
                 max = Integer.MIN_VALUE,max2 = Integer.MIN_VALUE,temp2,pw2=1;
         while(n/pw>0) {
-            temp = (n / pw) % 10;
-            pw = (int) Math.pow(10, i);
+            temp = (n / pw) % 10; // 9
+            pw = (int) Math.pow(10, i); //
             i++;
             if (temp > max) {
                 max = temp;

@@ -5,7 +5,7 @@
  * cops.
  */
 
-import java.util.Arrays;
+
 import java.util.Scanner;
 
 public class Cops_Thief {

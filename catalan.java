@@ -1,6 +1,25 @@
 /*
-The first few Catalan numbers for n = 0, 1, 2, 3, … are : 1, 1, 2, 5, 14, 42, 132, 429, 1430, 4862,
+Question:
+Write a Java program to generate Catalan numbers up to a specified value. The Catalan numbers are a sequence of
+natural numbers that occur in various counting problems, often involving recursively defined objects. The first
+few Catalan numbers for n = 0, 1, 2, 3, ... are: 1, 1, 2, 5, 14, 42, 132, 429, 1430, 4862, ...
+
+Sample Input/Output:
+Enter the number:
+5
+
+Output:
+1
+2
+5
+14
+42
+
+Explanation:
+For the input value of 5, the program generates the first 5 Catalan numbers.
+1, 2, 5, 14, 42
 */
+
 import java.util.Scanner;
 
 public class catalan {

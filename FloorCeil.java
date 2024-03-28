@@ -1,6 +1,4 @@
-import java.util.Scanner;
-
-public class demo {
+public class FloorCeil {
     public static void main(String[] args) {
 
         float e = 15.2f;

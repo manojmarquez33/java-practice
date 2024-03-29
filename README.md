@@ -1,6 +1,4 @@
-<div align='center'>
 
-<h1>Problem Solving using Java</h1>
 <div align='center'>
 
 <h1 style="color: #1E90FF; font-family: Arial, sans-serif;">Problem Solving using Java</h1>

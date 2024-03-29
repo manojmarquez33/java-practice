@@ -1,3 +1,20 @@
+/**
+Question:
+Write a Java program that implements Kadane's algorithm to find the maximum subarray sum. The program should take input from the user for the total number of elements in the array and the elements of the array. Then, it should compute and output the maximum sum of contiguous subarray elements.
+
+Sample Input/Output:
+Input:
+Enter the total number of elements: 8
+Enter the elements of the array:
+-2 1 -3 4 -1 2 1 -5
+
+Output:
+6
+
+Explanation:
+The input array is {-2, 1, -3, 4, -1, 2, 1, -5}. The contiguous subarray with the maximum sum is {4, -1, 2, 1}, and its sum is 6.
+*/
+
 import java.util.*;
 public class KadanesAlgo {
     public static void main(String[]args){

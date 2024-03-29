@@ -1,3 +1,18 @@
+/**
+Question:
+Write a Java program to generate the Fibonacci series up to a given number. The Fibonacci series starts with 0 and 1, and each subsequent number is the sum of the two preceding ones. Prompt the user to enter a number, n. The program should then generate and print the Fibonacci series up to the nth term.
+
+Sample Input/Output:
+Enter the number:
+10
+
+Fibonacci Series:
+0 1 1 2 3 5 8 13 21 34
+
+Explanation:
+For the input number 10, the program generates the Fibonacci series up to the 10th term, which is 34.
+*/
+
 import java.util.Scanner;
 
 public class Fibboncci {

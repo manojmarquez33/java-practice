@@ -1,3 +1,21 @@
+/**
+Question:
+Write a Java program to rotate a given number to the right by a specified number of positions. Implement a method that takes an integer input representing the number and another integer input representing the number of right rotations. The program should output the number after the rotations.
+
+Sample Input/Output:
+Input:
+1234
+2
+Output:
+3412
+
+Input:
+9876
+3
+Output:
+8769
+*/
+
 import java.util.Scanner;
 
 public class RotateNumber {

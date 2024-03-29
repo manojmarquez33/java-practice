@@ -1,3 +1,20 @@
+/*
+Question:
+Write a Java program to find the maximum digit from a given number, excluding a specified number of digits from the calculation.
+
+Sample Input/Output:
+Input:
+Enter the number: 51589
+Enter the number of digits to exclude: 2
+
+Output:
+Maximum digit after excluding 2 digits: 8
+
+Explanation:
+In the given number 51589, after excluding 2 digits, the remaining digits are 5, 1, and 9.
+The maximum digit among these is 9.
+*/
+
 import java.util.Scanner;
 
 public class MaxOfDigits {

@@ -98,5 +98,4 @@ Arrays
 75.	Deletion in array
 76.	Subarrays
 77.	Cadans algorithm
-78.
 

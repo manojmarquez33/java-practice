@@ -1,3 +1,20 @@
+/**
+ * This program takes a number 'a', a number of digits 'dig', and a number of spaces 'space' as input.
+ * It then prints the number 'a' with a specified number of decimal places and leading spaces using two different methods.
+ *
+ * Sample Input:
+ * Enter number n and no. space and decimal place
+ * 123.456
+ * 5
+ * 2
+ *
+ * Sample Output:
+ * --------------Method 1------------
+ *       123.456
+ * --------------Method 2 best------------
+ *      123.46
+ */
+
 import java.util.Scanner;
 
 public class NumberFormat {

@@ -1,6 +1,33 @@
-// given the x,y cooordinates of a center point of a circle, along with this radius.
-// now find whether x or y, given by the user, lies inside the circle, on the circle,
-// or outside the circle
+/**
+    Question:
+    You are given the coordinates of multiple frogs, their tongue lengths, and the coordinates of insects.
+    The goal is to determine, for each frog, how many insects it can catch within its tongue range.
+    Write a Java program to achieve this.
+
+    Sample Input:
+    Enter number of frog:
+    2
+    Enter coordinates of frog 1 (x y) and its tongue length:
+    0 0 5
+    Enter coordinates of frog 2 (x y) and its tongue length:
+    5 5 7
+    Enter number of insects:
+    3
+    Enter coordinates of insect 1 (x y):
+    1 1
+    Enter coordinates of insect 2 (x y):
+    6 6
+    Enter coordinates of insect 3 (x y):
+    2 2
+
+    Sample Output:
+    [1, 0]
+
+    Explanation:
+    - Frog 1 is at (0, 0) with a tongue length of 5. It can catch 1 insect at (1, 1) within its tongue range.
+    - Frog 2 is at (5, 5) with a tongue length of 7. It cannot catch any insects within its tongue range.
+*/
+
 
 import java.util.Arrays;
 import java.util.Scanner;

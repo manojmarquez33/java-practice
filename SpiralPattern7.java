@@ -1,6 +1,19 @@
-import java.util.Scanner;
+/**
+ 5
+ 5 4 3 2 1 0 1 2 3 4
+ 4 4 3 2 1 0 1 2 3 4
+ 3 3 3 2 1 0 1 2 3 4
+ 2 2 2 2 1 0 1 2 3 4
+ 1 1 1 1 1 0 1 2 3 4
+ 0 0 0 0 0 0 1 2 3 4
+ 1 1 1 1 1 1 1 2 3 4
+ 2 2 2 2 2 2 2 2 3 4
+ 3 3 3 3 3 3 3 3 3 4
+ 4 4 4 4 4 4 4 4 4 4
+ */
 
-public class PatternPractice {
+import java.util.Scanner;
+public class SpiralPattern7 {
     public static void main(String[] args) {
 
         Scanner in = new Scanner(System.in);

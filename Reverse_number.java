@@ -1,4 +1,13 @@
-// reverse of number without loop
+/*
+Question:
+Write a Java program to reverse a number without using loops. Implement a recursive function to achieve this task.
+
+Sample Output:
+Input:
+123456
+Output:
+654321
+*/
 
 public class Reverse_number {
     static int a = 123456;
